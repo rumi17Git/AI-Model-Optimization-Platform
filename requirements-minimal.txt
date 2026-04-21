@@ -1,0 +1,9 @@
+# Minimal Requirements - App works fully without ONNX
+streamlit
+torch
+torchvision
+plotly
+pandas
+numpy
+reportlab
+pillow
